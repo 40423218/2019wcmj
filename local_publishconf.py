@@ -22,8 +22,7 @@ BOOTSTRAP_THEME = 'united'
 COLOR_SCHEME_CSS = 'tomorrow_night.css'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-#CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
